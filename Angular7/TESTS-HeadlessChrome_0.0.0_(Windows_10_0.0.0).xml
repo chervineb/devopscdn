@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 0.0.0 (Windows 10 0.0.0)" package="" timestamp="2019-06-24T03:31:06" id="0" hostname="178LT23" tests="4" errors="0" failures="0" time="0.084">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/74.0.3729.169 Safari/537.36"/>
+  </properties>
+  <testcase name="isValidName should return true if a valid name is entered" time="0.042" classname="HeadlessChrome_0_0_0_(Windows_10_0_0_0).isValidName"/>
+  <testcase name="isValidName should return false if an invalid name is entered" time="0.024" classname="HeadlessChrome_0_0_0_(Windows_10_0_0_0).isValidName"/>
+  <testcase name="IsANumber should return blank if a valid name is entered" time="0.008" classname="HeadlessChrome_0_0_0_(Windows_10_0_0_0).IsANumber"/>
+  <testcase name="IsANumber should return a message if an invalid name is entered" time="0.01" classname="HeadlessChrome_0_0_0_(Windows_10_0_0_0).IsANumber"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>

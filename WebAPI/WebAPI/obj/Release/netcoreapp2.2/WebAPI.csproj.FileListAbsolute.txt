@@ -1,0 +1,14 @@
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.deps.json
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.dll
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.pdb
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.dll
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\AzureDevOpsSource\project\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.pdb
